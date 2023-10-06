@@ -171,7 +171,7 @@ header nav li a:hover::after, header nav .active::after {
 }
 
 .circle:nth-child(2) {
-    background: url("images/profile.jpg");
+    background: url("images/profile_pic.jpg");
     width: 30rem;
     background-size: 100%;
     background-repeat: no-repeat;
